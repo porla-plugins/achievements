@@ -1,0 +1,5 @@
+{
+  "name": "achievements",
+  "version": "0.1.0",
+  "ui": { "entry": "init.html", "rpc": ["torrents.get"] }
+}
